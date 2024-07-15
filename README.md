@@ -1,2 +1,2 @@
-# IntroduceMywaifu.com
+# IntroduceMywaifu.github.io
 The website for 
